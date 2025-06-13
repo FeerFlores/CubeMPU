@@ -21,11 +21,11 @@ Giroscopio 3D con Micropython y Javascript
 
 # Microcontroladores probados:
 
-| Tarjeta | Prueba      |
-|---------|-------------| 
-| ESP32C6 | Funcionando |
-| RP2040  | ---         |
-| STM32   | ---         |
+| Tarjeta | Prueba        |
+|---------|---------------| 
+| ESP32C6 | Funcionando   |
+| RP2040  | Falta probar  |
+| STM32   | Falta probar  |
 
 # Consideración
 
