@@ -1,6 +1,4 @@
-/* ===========================
-   Reset y configuración base
-   =========================== */
+
 *,
 *::before,
 *::after {
@@ -26,7 +24,7 @@ body {
 }
 
 /* ===========================
-   Variables CSS (opcional)
+   Variables 
    =========================== */
 :root {
   --gap: 1.5rem;
